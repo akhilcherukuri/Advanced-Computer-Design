@@ -1,4 +1,4 @@
-# cmpe240
+# Advanced Computer Design [SJSU CMPE240]
 
 CMPE 240 CLASS PROJECTS
 
